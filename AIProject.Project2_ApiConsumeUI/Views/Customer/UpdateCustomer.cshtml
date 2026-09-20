@@ -1,0 +1,18 @@
+﻿@model AIProject.Project2_ApiConsumeUI.Dtos.GetByIdCustomerDto
+
+<form method="post">
+    <div class="container">
+        <br /><br />
+        <input type="hidden" asp-for="Id"/>
+        <label>Musteri Adi</label>
+        <input type="text" asp-for="Name" class="form-control" />
+        <br />
+        <label>Musteri Soyadi</label>
+        <input type="text" asp-for="Surname" class="form-control" />
+        <br />
+        <label>Musteri Maasi</label>
+        <input type="text" asp-for="Salary" class="form-control" />
+        <br />
+        <button class="btn btn-dark">Musteri Guncelle</button>
+    </div>
+</form>

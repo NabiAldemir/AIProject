@@ -1,0 +1,25 @@
+﻿@model List<AIProject.Project2_ApiConsumeUI.Dtos.ResultCustomerDto>
+
+<div class="container">
+    <br /><br />
+    <table class="table table-bordered">
+        <tr>
+            <th>#</th>
+            <th>Adi Soyadi</th>
+            <th>Bakiye</th>
+            <th>Sil</th>
+            <th>Guncelle</th>
+        </tr>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name @item.Surname</td>
+                <td>@item.Salary</td>
+                <td><a href="/Customer/DeleteCustomer/@item.Id" class="btn btn-danger">Sil</a></td>
+                <td><a href="/Customer/UpdateCustomer/@item.Id" class="btn btn-success">Guncelle</a></td>
+            </tr>
+        }
+    </table>
+    <a href="/Customer/AddCustomer" class="btn btn-primary">Musteri Ekle</a>
+</div>

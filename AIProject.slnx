@@ -1,5 +1,5 @@
 <Solution>
-  <Project Path="../AIProjectx/AIProject.Project1_ApiDemo/AIProject.Project1_ApiDemo.csproj" />
-  <Project Path="../AIProjectx/AIProject.Project2_ApiConsumeUI/AIProject.Project2_ApiConsumeUI.csproj" />
+  <Project Path="AIProject.Project1_ApiDemo/AIProject.Project1_ApiDemo.csproj" />
+  <Project Path="AIProject.Project2_ApiConsumeUI/AIProject.Project2_ApiConsumeUI.csproj" />
   <Project Path="AIProject.Project3_RapidApi/AIProject.Project3_RapidApi.csproj" Id="8b0163ba-c427-4c6b-9ddb-3cb1c7aeae3b" />
 </Solution>
