@@ -7,7 +7,7 @@ class Program
 {
     static async Task Main(string[] args)
     {
-        var apiKey = "";
+        var apiKey = "key";
         Console.WriteLine("Lutfen Sorunuzu Yaziniz");
 
         var prompt = Console.ReadLine();
@@ -16,13 +16,13 @@ class Program
 
         var request = new
         {
-            model = "gpt-3.5-turbo",
+            model = "gpt-5.6-luna",
             messages = new[]
             {
                 new { role = "system", content = "You are a helpful assistant." },
                 new { role = "user", content = prompt }
             },
-            max_tokens = 100
+            max_completion_tokens = 500,
         };
 
         var json = JsonSerializer.Serialize(request);
