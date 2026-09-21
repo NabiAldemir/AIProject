@@ -7,7 +7,7 @@ class Program
 {
     static async Task Main(string[] args)
     {
-        var apiKey = "key";
+        var apiKey = "apiKey";
         Console.WriteLine("Lutfen Sorunuzu Yaziniz");
 
         var prompt = Console.ReadLine();
