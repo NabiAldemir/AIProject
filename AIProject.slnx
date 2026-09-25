@@ -5,4 +5,5 @@
   <Project Path="AIProject.Project4_OpenAIChat/AIProject.Project4_OpenAIChat.csproj" Id="7f5a62cd-75a7-4372-9c12-f2b3ae2414b4" />
   <Project Path="AIProject.Project5_OpenWhisperAudioTranscript/AIProject.Project5_OpenWhisperAudioTranscript.csproj" Id="ad0dc912-39de-409d-be22-86ea9cd8df80" />
   <Project Path="AIProject.Project6_DallEImageGeneration/AIProject.Project6_DallEImageGeneration.csproj" Id="51c65a54-e65b-421f-95a2-58ec7d2c831f" />
+  <Project Path="AIProject.Project7_TesseractOcr/AIProject.Project7_TesseractOcr.csproj" Id="e742ddc4-518a-4145-b359-24c942cfa79d" />
 </Solution>
