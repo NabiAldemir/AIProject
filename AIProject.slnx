@@ -7,4 +7,5 @@
   <Project Path="AIProject.Project6_DallEImageGeneration/AIProject.Project6_DallEImageGeneration.csproj" Id="51c65a54-e65b-421f-95a2-58ec7d2c831f" />
   <Project Path="AIProject.Project7_TesseractOcr/AIProject.Project7_TesseractOcr.csproj" Id="e742ddc4-518a-4145-b359-24c942cfa79d" />
   <Project Path="AIProject.Project8_GoogleCloudVision/AIProject.Project8_GoogleCloudVision.csproj" Id="661d4d00-eebd-4b92-8cda-4ec67a147a67" />
+  <Project Path="AIProject.Project9_OpenAiTranslate/AIProject.Project9_OpenAiTranslate.csproj" Id="28e85408-0c8f-48db-a514-6ba7c6128102" />
 </Solution>
