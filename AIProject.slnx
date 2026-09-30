@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="AIProject.Project10_TextToSpeech/AIProject.Project10_TextToSpeech.csproj" Id="cd7eb868-e835-481f-942d-8df2fe39cc3d" />
   <Project Path="AIProject.Project1_ApiDemo/AIProject.Project1_ApiDemo.csproj" />
   <Project Path="AIProject.Project2_ApiConsumeUI/AIProject.Project2_ApiConsumeUI.csproj" />
   <Project Path="AIProject.Project3_RapidApi/AIProject.Project3_RapidApi.csproj" Id="8b0163ba-c427-4c6b-9ddb-3cb1c7aeae3b" />
