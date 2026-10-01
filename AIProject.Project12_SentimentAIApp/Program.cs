@@ -3,7 +3,7 @@ using System.Text;
 
 class Program
 {
-    static string apiKey = "key";
+    static string apiKey = "key here";
     static async Task Main(string[] args)
     {
         Console.Write("Lutfen Metni Giriniz: ");
