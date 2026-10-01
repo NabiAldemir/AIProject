@@ -4,7 +4,7 @@ class Program
 {
     static async Task Main(string[] args)
     {
-        string apiKey = "key";
+        string apiKey = "key here";
         string audioFilePath = "Audio1.mp3";
 
         using (var client = new HttpClient())
