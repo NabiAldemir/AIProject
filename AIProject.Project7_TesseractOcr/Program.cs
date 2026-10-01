@@ -27,7 +27,7 @@ class Program
         }
         catch (Exception ex)
         {
-            Console.WriteLine($"Bir Sorun Olustu : {ex.Message}");
+            Console.WriteLine($"Bir Hata Olustu : {ex.Message}");
         }
     }
 }
