@@ -8,7 +8,7 @@ class Program
         string imagePath = Console.ReadLine();
         Console.WriteLine();
         
-        string credentialPath = "servis json dosyasi";
+        string credentialPath = "service json";
         Environment.SetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS",credentialPath);
 
         try
