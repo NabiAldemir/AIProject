@@ -1,13 +1,14 @@
 <Solution>
   <Project Path="AIProject.Project10_TextToSpeech/AIProject.Project10_TextToSpeech.csproj" Id="cd7eb868-e835-481f-942d-8df2fe39cc3d" />
   <Project Path="AIProject.Project11_TextToSpeechWithOpenAI/AIProject.Project11_TextToSpeechWithOpenAI.csproj" Id="e347c2f1-75f1-4f9a-a154-fdbecd6875c4" />
-  <Project Path="AIProject.Project1_ApiDemo/AIProject.Project1_ApiDemo.csproj" />
-  <Project Path="AIProject.Project2_ApiConsumeUI/AIProject.Project2_ApiConsumeUI.csproj" />
-  <Project Path="AIProject.Project3_RapidApi/AIProject.Project3_RapidApi.csproj" Id="8b0163ba-c427-4c6b-9ddb-3cb1c7aeae3b" />
-  <Project Path="AIProject.Project4_OpenAIChat/AIProject.Project4_OpenAIChat.csproj" Id="7f5a62cd-75a7-4372-9c12-f2b3ae2414b4" />
-  <Project Path="AIProject.Project5_OpenWhisperAudioTranscript/AIProject.Project5_OpenWhisperAudioTranscript.csproj" Id="ad0dc912-39de-409d-be22-86ea9cd8df80" />
-  <Project Path="AIProject.Project6_DallEImageGeneration/AIProject.Project6_DallEImageGeneration.csproj" Id="51c65a54-e65b-421f-95a2-58ec7d2c831f" />
-  <Project Path="AIProject.Project7_TesseractOcr/AIProject.Project7_TesseractOcr.csproj" Id="e742ddc4-518a-4145-b359-24c942cfa79d" />
-  <Project Path="AIProject.Project8_GoogleCloudVision/AIProject.Project8_GoogleCloudVision.csproj" Id="661d4d00-eebd-4b92-8cda-4ec67a147a67" />
-  <Project Path="AIProject.Project9_OpenAiTranslate/AIProject.Project9_OpenAiTranslate.csproj" Id="28e85408-0c8f-48db-a514-6ba7c6128102" />
+  <Project Path="AIProject.Project12_SentimentAIApp/AIProject.Project12_SentimentAIApp.csproj" Id="5da294a2-e3c3-47f3-a55d-231d361374ae" />
+  <Project Path="AIProject.Project1_ApiDemo/AIProject.Project01_ApiDemo.csproj" />
+  <Project Path="AIProject.Project2_ApiConsumeUI/AIProject.Project02_ApiConsumeUI.csproj" />
+  <Project Path="AIProject.Project3_RapidApi/AIProject.Project03_RapidApi.csproj" Id="8b0163ba-c427-4c6b-9ddb-3cb1c7aeae3b" />
+  <Project Path="AIProject.Project4_OpenAIChat/AIProject.Project04_OpenAIChat.csproj" Id="7f5a62cd-75a7-4372-9c12-f2b3ae2414b4" />
+  <Project Path="AIProject.Project5_OpenWhisperAudioTranscript/AIProject.Project05_OpenWhisperAudioTranscript.csproj" Id="ad0dc912-39de-409d-be22-86ea9cd8df80" />
+  <Project Path="AIProject.Project6_DallEImageGeneration/AIProject.Project06_DallEImageGeneration.csproj" Id="51c65a54-e65b-421f-95a2-58ec7d2c831f" />
+  <Project Path="AIProject.Project7_TesseractOcr/AIProject.Project07_TesseractOcr.csproj" Id="e742ddc4-518a-4145-b359-24c942cfa79d" />
+  <Project Path="AIProject.Project8_GoogleCloudVision/AIProject.Project08_GoogleCloudVision.csproj" Id="661d4d00-eebd-4b92-8cda-4ec67a147a67" />
+  <Project Path="AIProject.Project9_OpenAiTranslate/AIProject.Project09_OpenAiTranslate.csproj" Id="28e85408-0c8f-48db-a514-6ba7c6128102" />
 </Solution>
