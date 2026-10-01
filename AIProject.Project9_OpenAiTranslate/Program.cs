@@ -8,7 +8,7 @@ class Program
         Console.Write("Lutfen cevirmek istediginiz metni giriniz : ");
         string inputText = Console.ReadLine();
 
-        string apiKey = "key";
+        string apiKey = "key here";
 
         string translatedText = await TranslatedTextToEnglish(inputText, apiKey);
 
