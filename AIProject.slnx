@@ -3,6 +3,7 @@
   <Project Path="AIProject.Project11_TextToSpeechWithOpenAI/AIProject.Project11_TextToSpeechWithOpenAI.csproj" Id="e347c2f1-75f1-4f9a-a154-fdbecd6875c4" />
   <Project Path="AIProject.Project12_SentimentAIApp/AIProject.Project12_SentimentAIApp.csproj" Id="5da294a2-e3c3-47f3-a55d-231d361374ae" />
   <Project Path="AIProject.Project13_SentimentDegreeWithOpenAI/AIProject.Project13_SentimentDegreeWithOpenAI.csproj" Id="82fe857c-108c-4c30-9e53-abf15deda1c3" />
+  <Project Path="AIProject.Project14_ArticleSummarizeAI/AIProject.Project14_ArticleSummarizeAI.csproj" Id="b6b33aae-5dc0-43c1-927d-51906c0a4ead" />
   <Project Path="AIProject.Project1_ApiDemo/AIProject.Project01_ApiDemo.csproj" />
   <Project Path="AIProject.Project2_ApiConsumeUI/AIProject.Project02_ApiConsumeUI.csproj" />
   <Project Path="AIProject.Project3_RapidApi/AIProject.Project03_RapidApi.csproj" Id="8b0163ba-c427-4c6b-9ddb-3cb1c7aeae3b" />
