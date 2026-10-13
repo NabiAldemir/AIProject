@@ -10,6 +10,7 @@
   <Project Path="AIProject.Project18_OpenAINewsSummarizeWithRss/AIProject.Project18_OpenAINewsSummarizeWithRss.csproj" Id="eb4bc27f-7147-408f-a1fb-862d5f769757" />
   <Project Path="AIProject.Project19_CreateStoryWithOpenAI/AIProject.Project19_CreateStoryWithOpenAI.csproj" Id="a84314aa-89f3-4188-a0ac-aee3d17ff506" />
   <Project Path="AIProject.Project1_ApiDemo/AIProject.Project01_ApiDemo.csproj" />
+  <Project Path="AIProject.Project20_RecipeSuggestionWithOpenAI/AIProject.Project20_RecipeSuggestionWithOpenAI.csproj" Id="2db149ce-9627-48cc-9021-1416a1f86a53" />
   <Project Path="AIProject.Project2_ApiConsumeUI/AIProject.Project02_ApiConsumeUI.csproj" />
   <Project Path="AIProject.Project3_RapidApi/AIProject.Project03_RapidApi.csproj" Id="8b0163ba-c427-4c6b-9ddb-3cb1c7aeae3b" />
   <Project Path="AIProject.Project4_OpenAIChat/AIProject.Project04_OpenAIChat.csproj" Id="7f5a62cd-75a7-4372-9c12-f2b3ae2414b4" />
