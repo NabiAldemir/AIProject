@@ -8,6 +8,7 @@
   <Project Path="AIProject.Project16_PdfAnalyzeWithOpenAI/AIProject.Project16_PdfAnalyzeWithOpenAI.csproj" Id="5119bd60-5552-46bd-9961-c1494acccc9e" />
   <Project Path="AIProject.Project17_GoogleCloudVisionImageDetection/AIProject.Project17_GoogleCloudVisionImageDetection.csproj" Id="3447c6d5-b364-4ce2-add0-311375cf6d0d" />
   <Project Path="AIProject.Project18_OpenAINewsSummarizeWithRss/AIProject.Project18_OpenAINewsSummarizeWithRss.csproj" Id="eb4bc27f-7147-408f-a1fb-862d5f769757" />
+  <Project Path="AIProject.Project19_CreateStoryWithOpenAI/AIProject.Project19_CreateStoryWithOpenAI.csproj" Id="a84314aa-89f3-4188-a0ac-aee3d17ff506" />
   <Project Path="AIProject.Project1_ApiDemo/AIProject.Project01_ApiDemo.csproj" />
   <Project Path="AIProject.Project2_ApiConsumeUI/AIProject.Project02_ApiConsumeUI.csproj" />
   <Project Path="AIProject.Project3_RapidApi/AIProject.Project03_RapidApi.csproj" Id="8b0163ba-c427-4c6b-9ddb-3cb1c7aeae3b" />
